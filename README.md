@@ -135,15 +135,23 @@ Based on the customer segment, the system helps recommend:
 * Sales forecasting system
 
   ### Dashboard Overview
- <img width="1230" height="594" alt="Image" src="https://github.com/user-attachments/assets/60712cff-8982-431a-936f-e6009be6aa41" /><img width="1311" height="582" alt="Image" src="https://github.com/user-attachments/assets/3bbe4d85-4b9f-4a0f-bab2-fde3aba09a46" />
+ <img width="1230" height="594" alt="Image" src="https://github.com/user-attachments/assets/60712cff-8982-431a-936f-e6009be6aa41" />
+ 
+ 
+ <img width="1311" height="582" alt="Image" src="https://github.com/user-attachments/assets/3bbe4d85-4b9f-4a0f-bab2-fde3aba09a46" />
+ 
 
 <img width="1324" height="603" alt="Image" src="https://github.com/user-attachments/assets/649a5a31-0b57-4cd3-b662-3483e633c220" />
 
+
 <img width="1353" height="507" alt="Image" src="https://github.com/user-attachments/assets/9d2544df-b08e-4f1d-906c-b09c96a1f373" />
+
 
 <img width="1345" height="576" alt="Image" src="https://github.com/user-attachments/assets/5a5f8005-0eea-4093-8756-db52817abe9d" />
 
+
 <img width="1343" height="603" alt="Image" src="https://github.com/user-attachments/assets/25551d77-d2de-4372-9c83-b3e4c3375e6b" />
+
   
 
   ## Author
